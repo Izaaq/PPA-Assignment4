@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StatsDisplay
+comment0.text=\r\n\ This\ class\ turns\ the\ statistics\ into\ displayable\ form.\r\n\ \r\n\ @author\ Jian\ Han\ Tey\r\n
+comment1.params=displayCode\ statistics
+comment1.target=StatsDisplay(int,\ Statistics)
+comment1.text=\r\n\ Constructs\ the\ statistics\ display.\r\n\ @param\ displayCode\ Code\ to\ determine\ what\ to\ display\r\n\ @param\ statistics\ Statistics\ from\ data\ loaded.\r\n
+comment2.params=
+comment2.target=void\ updateDataToDisplay()
+comment2.text=\r\n\ Updates\ the\ statistics\ displayed.\r\n
+comment3.params=
+comment3.target=void\ setDataToDisplay()
+comment3.text=\r\n\ Determines\ what\ to\ display\ based\ on\ display\ code.\r\n
+numComments=4

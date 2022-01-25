@@ -1,0 +1,8 @@
+.button-with-properties {
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(one-pass-box, black, 10, 0, 1, 1);
+}
+
+.button {
+    -fx-shape: "M 400 150 L 500 200 L 500 300 L 400 350 L 300 300 L 300 200 L 400 150 Z";
+}

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BoroughCoordinates
+comment0.text=\r\n\ This\ class\ has\ methods\ that\ return\ the\ coordinates\ that\ allow\r\n\ placement\ in\ a\ pane.\ \r\n\ This\ class\ also\ stores\ the\ final\ array\ of\ borough\ names\r\n\ \r\n\ @author\ Mohamad\ Imran\ bin\ Yaacob,\ Guan\ Yi\ Tang\r\n
+comment1.params=borough
+comment1.target=int\ getX(java.lang.String)
+comment1.text=\r\n\ @return\ The\ x\ coordinate\ of\ the\ borough\ button\r\n
+comment2.params=borough
+comment2.target=int\ getY(java.lang.String)
+comment2.text=\r\n\ @return\ The\ y\ coordinate\ of\ the\ borough\ button\r\n
+comment3.params=
+comment3.target=java.lang.String[]\ getBoroughs()
+comment3.text=\r\n\ @return\ The\ array\ that\ holds\ all\ borough\ names.\r\n
+comment4.params=xCoordinate\ yCoordinate
+comment4.target=void\ setXY(int,\ int)
+comment4.text=\r\n\ Sets\ the\ x\ and\ y\ coordinate\ of\ the\ borough\ button.\r\n
+comment5.params=borough
+comment5.target=void\ setCoordinates(java.lang.String)
+comment5.text=\r\n\ Sets\ the\ coordinates\ x\ and\ y\ coordinates\ of\ boroughs.\ \r\n\ Used\ to\ layout\ buttons\ in\ a\ pane.\r\n
+numComments=6

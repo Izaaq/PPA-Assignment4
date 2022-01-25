@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PropertyViewer
+comment0.text=\r\n\ This\ is\ the\ main\ class\ of\ the\ application.\ This\ class\ is\ created\ to\ start\ the\ application.\r\n\ \r\n\ @author\ Izaaq\ bin\ Ahmad\ Izham,\ Mohamad\ Imran\ bin\ Yaacob\r\n
+comment1.params=
+comment1.target=PropertyViewer()
+comment1.text=\r\n\ Constructor\ for\ the\ Property\ Viewer\ application.\r\n
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ Method\ is\ called\ by\ the\ JavaFX\ framework\ to\ start\ the\ application.\r\n\ @param\ stage\ The\ primary\ stage.\r\n
+comment3.params=
+comment3.target=void\ createContentPanels()
+comment3.text=\r\n\ Creates\ panels\ to\ be\ displayed.\ Adds\ it\ to\ a\ list\ of\ panels.\r\n
+comment4.params=
+comment4.target=void\ nextButtonAction()
+comment4.text=\r\n\ What\ happens\ when\ the\ next\ button\ is\ pressed.\r\n\ Loads\ the\ next\ panel\ in\ the\ list\ of\ panels.\r\n
+comment5.params=
+comment5.target=void\ prevButtonAction()
+comment5.text=\r\n\ What\ happens\ when\ the\ previous\ button\ is\ pressed.\r\n\ Load\ the\ previous\ panel\ in\ the\ list\ of\ panels.\r\n
+numComments=6

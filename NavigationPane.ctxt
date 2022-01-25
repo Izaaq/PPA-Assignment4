@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NavigationPane
+comment0.text=\r\n\ A\ class\ the\ represents\ the\ pane\ and\ buttons\ for\ navigation\ between\ panels.\r\n\ \r\n\ @author\ Izaaq\ bin\ Ahmad\ Izham\r\n
+comment1.params=panelName
+comment1.target=NavigationPane(java.lang.String)
+comment1.text=\r\n\ Creates\ the\ navigation\ pane.\r\n
+comment2.params=panelName
+comment2.target=void\ setPanelName(java.lang.String)
+comment3.params=
+comment3.target=void\ disableButtons()
+comment3.text=\r\n\ Disables\ next\ and\ previous\ buttons.\r\n
+comment4.params=
+comment4.target=void\ enableButtons()
+comment4.text=\r\n\ Enables\ next\ and\ previous\ buttons.\r\n
+comment5.params=
+comment5.target=javafx.scene.control.Button\ getNextButton()
+comment5.text=\r\n\ Gets\ the\ next\ button\r\n\ @return\ The\ next\ button.\r\n
+comment6.params=
+comment6.target=javafx.scene.control.Button\ getPrevButton()
+comment6.text=\r\n\ Gets\ the\ previous\ button\r\n\ @return\ The\ previous\ button.\r\n
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StatsDisplayPane
+comment0.text=\r\n\ A\ class\ that\ stores\ the\ statistics\ displays.\r\n\ \r\n\ @author\ Jian\ Han\ Tey\r\n
+comment1.params=statsNotDisplayed
+comment1.target=StatsDisplayPane(java.util.LinkedList)
+comment1.text=\r\n\ Constructs\ StatsDisplayPane\ object.\r\n\ @param\ statsNotDisplayed\ A\ linked\ list\ of\ statistics\ displays\ which\ are\ not\ displayed.\r\n
+comment2.params=
+comment2.target=void\ displayNextButtonAction()
+comment2.text=\r\n\ What\ to\ do\ when\ the\ next\ button\ in\ the\ display\ pane\ is\ clicked.\r\n\ Switches\ to\ the\ next\ display\ in\ the\ statsNotDisplayed\ list.\r\n
+comment3.params=
+comment3.target=void\ displayPrevButtonAction()
+comment3.text=\r\n\ What\ to\ do\ when\ the\ previous\ button\ in\ the\ display\ pane\ is\ clicked.\r\n\ Switches\ to\ the\ previous\ display\ in\ the\ statsNotDisplayed\ list.\r\n
+numComments=4

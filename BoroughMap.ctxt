@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BoroughMap
+comment0.text=\r\n\ This\ class\ represents\ the\ map\ of\ boroughs\ as\ hexagonal\ buttons.\r\n\ \r\n\ @author\ Mohamad\ Imran\ bin\ Yaacob,\ Guan\ Yi\ Tang\r\n
+comment1.params=statistics
+comment1.target=BoroughMap(Statistics)
+comment1.text=\r\n\ Constructs\ the\ map\ of\ the\ borough.\r\n\ @param\ statistics\ The\ statistics\ of\ the\ loaded\ listings.\r\n
+comment2.params=
+comment2.target=void\ createBoroughMap()
+comment2.text=\r\n\ Creates\ the\ borough\ map.\ The\ borough\ map\ consists\ of\ hexagonal\ buttons.\r\n
+comment3.params=
+comment3.target=void\ styleMap()
+comment3.text=\r\n\ This\ method\ styles\ the\ buttons\ whose\ borough\ they\ represent\ contains\ properties\ in\ the\ specified\r\n\ price\ range.\r\n
+numComments=4

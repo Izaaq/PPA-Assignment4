@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SurprisePanel
+comment0.text=\r\n\ This\ panel\ with\ surprise\ you.\r\n\ \r\n\ @author\ Guan\ Yi\ Tang\r\n
+comment1.params=panelName
+comment1.target=SurprisePanel(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ SurprisePanel\r\n
+comment2.params=
+comment2.target=ContentPanel\ loadPanel()
+comment3.params=
+comment3.target=void\ createSurprisePanel()
+comment3.text=\r\n\ Creates\ the\ surprise\ panel.\r\n
+comment4.params=event
+comment4.target=void\ loadWebsite(javafx.event.ActionEvent)
+comment4.text=\r\n\ Loads\ a\ website\ when\ surprise\ button\ is\ pressed.\r\n
+comment5.params=
+comment5.target=boolean\ nextButtonAction()
+comment6.params=
+comment6.target=boolean\ prevButtonAction()
+numComments=7

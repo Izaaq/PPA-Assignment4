@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ContentPanel
+comment0.text=\r\n\ This\ is\ an\ abstract\ class\ of\ panels\ to\ be\ displayed\ in\ the\ property\ viewer\ application.\r\n
+comment1.params=panelName
+comment1.target=ContentPanel(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPanelName()
+comment3.params=
+comment3.target=boolean\ nextButtonAction()
+comment3.text=\r\n\ What\ happens\ when\ the\ next\ button\ in\ the\ navigation\ pane\ is\ clicked.\r\n\ @return\ true\ if\ can\ go\ to\ the\ next\ panel.\r\n
+comment4.params=
+comment4.target=boolean\ prevButtonAction()
+comment4.text=\r\n\ What\ happens\ when\ the\ previous\ button\ in\ the\ navigation\ pane\ is\ clicked.\r\n\ @return\ true\ if\ can\ go\ to\ the\ previous\ panel.\r\n
+comment5.params=
+comment5.target=ContentPanel\ loadPanel()
+comment5.text=\r\n\ Loads\ the\ panel.\r\n\ @return\ The\ panel\ to\ be\ loaded.\r\n
+numComments=6

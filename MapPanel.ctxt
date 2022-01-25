@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MapPanel
+comment0.text=\r\n\ This\ class\ represents\ the\ map\ panel.\r\n\ \r\n\ @author\ Mohamad\ Imran\ bin\ Yaacob\r\n
+comment1.params=panelName\ statistics
+comment1.target=MapPanel(java.lang.String,\ Statistics)
+comment1.text=\r\n\ Constructor\ for\ the\ map\ panel.\r\n\ @statistics\ The\ statistics\ calculated\ from\ data\ loaded.\r\n
+comment2.params=
+comment2.target=ContentPanel\ loadPanel()
+comment3.params=
+comment3.target=void\ createMapPanel()
+comment3.text=\r\n\ Creates\ the\ map\ panel.\r\n
+comment4.params=
+comment4.target=boolean\ nextButtonAction()
+comment5.params=
+comment5.target=boolean\ prevButtonAction()
+numComments=6

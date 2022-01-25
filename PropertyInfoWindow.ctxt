@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PropertyInfoWindow
+comment0.text=\r\n\ This\ class\ represents\ a\ window\ that\ show\ additional\ information\ about\ a\ property.\r\n\ \r\n\ @author\ Mohamad\ Imran\ bin\ Yaacob\r\n
+comment1.params=boroughName\ statistics
+comment1.target=PropertyInfoWindow(java.lang.String,\ Statistics)
+comment1.text=\r\n\ Constructs\ PropertyTableView\r\n\ @param\ boroughName\ The\ name\ of\ the\ borough.\r\n\ @param\ statistics\ The\ statistics\ of\ the\ loaded\ listings.\r\n
+comment2.params=
+comment2.target=void\ createPropertiesTable()
+comment2.text=\r\n\ Creates\ the\ table\ that\ lists\ all\ the\ properties.\r\n
+comment3.params=
+comment3.target=void\ createMoreInfoWindow()
+comment3.text=\r\n\ Creates\ the\ window\ the\ pops\ up\ to\ show\ more\ info\ about\ a\ property\ when\ a\ row\ is\ clicked.\r\n
+comment4.params=
+comment4.target=void\ createSortingBar()
+comment4.text=\r\n\ Creates\ the\ sorting\ bar\ that\ has\ a\ label\ and\ a\ choice\ box\ to\ select\ how\ to\ sort\ the\ table.\r\n
+comment5.params=ov\ oldString\ newString
+comment5.target=void\ sortTable(javafx.beans.value.ObservableValue,\ java.lang.String,\ java.lang.String)
+numComments=6

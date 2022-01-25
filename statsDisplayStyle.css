@@ -1,0 +1,16 @@
+#name-label {
+    -fx-font: 30px "Verdana";
+    -fx-underline: true;
+}
+
+#data-label {
+    -fx-font: 22px "Verdana";
+}
+
+
+.label {
+    -fx-wrap-text: true;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-padding: 20px;
+}
